@@ -1,3 +1,3 @@
 # octo-repo
 
-#thie is my git
+# thie is my git
